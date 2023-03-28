@@ -3,16 +3,6 @@ Github Profile: New README.md
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">Introducing a Sacramento Frontend Developer with a Passion for Designing Beautiful and Engaging Web Interfaces</h3>
 
-<img align=“right” alt=“banner”
-width=“400” src”https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6%2F68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966&tbnid=kW5aMR9bQr2XuM&vet=12ahUKEwiok87To__9AhUO5nMBHYnOBy4QMygLegUIARDXAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fmudassir-jmi&docid=5RkhpjogE0Hs3M&w=1920&h=590&q=github%20banner%20image%20web%20developer&hl=en&ved=2ahUKEwiok87To__9AhUO5nMBHYnOBy4QMygLegUIARDXAQ
-”>
-
-<p align=“left”> <img src=“” alt=“small-image”> </p>
-
-<p align=“left”> <a href=“linkedin” target=“blank”></a> <img src=“![Twitter Follow](https://img.shields.io/twitter/follow/ArthurBallest16?style=social)”></p>
-
-
-
 - 🚦 I’m currently updating and working with [HTML/CSS/Javascript](https://github.com/arthurbfrancisco)
 
 - 📝 I’m currently learning **Frontend and Backend JS/Python**
