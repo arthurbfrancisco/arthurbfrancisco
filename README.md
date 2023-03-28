@@ -17,8 +17,6 @@
 
 - 📫 You can reach me **arthur.ballesteros.francisco@gmail.com**
 
-- 🚴🏻‍♂️ My experiences [file:///Users/ladxbak/Desktop/Arthur's%20Resume%202023.pdf](file:///Users/ladxbak/Desktop/Arthur's%20Resume%202023.pdf)
-
 - 🤫 Fun fact **I enjoy cooking for friends and family!**
 
 <h3 align="left">Connect with me:</h3>
